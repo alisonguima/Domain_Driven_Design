@@ -1,0 +1,4 @@
+Exemplo de escrita em arquivo
+Alison
+FIAP
+Teste
